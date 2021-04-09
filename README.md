@@ -1,2 +1,0 @@
-# JoJo
-hud
